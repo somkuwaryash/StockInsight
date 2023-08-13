@@ -1,9 +1,4 @@
-//
-//  News.swift
-//  realMarketData
-//
-//  Created by Yash Somkuwar on 08/08/23.
-//
+
 
 struct News: Codable {
     let id: String
