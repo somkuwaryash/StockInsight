@@ -7,6 +7,7 @@ An iOS application that provides users with real-time stock market data and rela
   <img src="images/image1.jpeg" width="400" />
   <img src="images/image2.png" width="400" /> 
 </p>
+  <img src="images/image3.jpeg" width="400" /> 
 
 
 ## Features:
