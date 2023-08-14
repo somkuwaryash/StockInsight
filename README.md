@@ -2,6 +2,13 @@
 
 An iOS application that provides users with real-time stock market data and related news, developed using SwiftUI.
 
+## Screenshots
+<p float="left">
+  <img src="images/image1.png" width="100" />
+  <img src="images/image2.png" width="100" /> 
+</p>
+
+
 ## Features:
 
 - **Searchable Dropdown**: Allows users to search for and select specific stock tickers.
